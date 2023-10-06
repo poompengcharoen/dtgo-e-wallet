@@ -79,7 +79,7 @@ yarn dev
 
 ## API Testing
 
-For easier API testing, I have provided the POSTMAN collection that can be imported directly into POSTMAN application. Inside the collection, you will find the request APIs ready to be used. Please find the POSTMAN JSON collection here.
+For easier API testing, I have provided the POSTMAN JSON collection that can be imported directly into POSTMAN. Inside the collection, you will find the API requests ready to be used. Please find the POSTMAN JSON collection here.
 
 [Download](E_Wallet_API.postman_collection.json)
 
