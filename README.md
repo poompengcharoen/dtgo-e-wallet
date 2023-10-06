@@ -77,6 +77,12 @@ or run it in development mode
 yarn dev
 ```
 
+## API Testing
+
+For easier API testing, I have provided the POSTMAN collection that can be imported directly into POSTMAN application. Inside the collection, you will find the request APIs ready to be used. Please find the POSTMAN JSON collection here.
+
+[Download](E_Wallet_API.postman_collection.json)
+
 ## API Specification
 
 ### Authentication
