@@ -185,7 +185,17 @@ Authorization: <JWT-Token>
 | - 404 Not Found             | User or transaction not found.                        |
 | - 500 Internal Server Error | Server error.                                         |
 
-This Markdown table provides a clear and organized representation of your API specification, including endpoints, descriptions, request bodies, responses, and authentication requirements.
+## Encryption Diagram
+
+For sending sensitive data in API, we'll use HTTPS (TLS/SSL) encryption. This ensures that data sent between the client and server is encrypted and cannot be intercepted by malicious actors.
+
+**Encryption Mechanism:**
+
+1. **Client-Side**: The client starts a request to the server.
+2. **TLS Handshake**: The client and server establish a secure connection using a TLS handshake.
+3. **Data Encryption**: Sensitive data (like passwords or transaction details) is encrypted using the established secure connection.
+4. **Server-Side**: The server receives and decrypts the data, processes the request, and sends an encrypted response back.
+5. **Client-Side**: The client decrypts the received response.
 
 ## Credit
 
