@@ -15,7 +15,7 @@ The web application techstack includes Vite, React, TailwindCSS. The server side
 
 Below is the instructions and requirements to get this project running. This project was developed and tested on MacOS Ventura 13.15.1 operating on an Apple Silicon only. You may need to tweak the setup process based on your current system environment.
 
-`SQLite` was chosen as the database option for this project for its portability and setup convenience. If you prefer other databases, you may need to edit database schema promptly (The file is located at `db/sqlite3_schema.sql`).
+`SQLite` was chosen as the database option for this project for its portability and setup convenience. If you prefer other databases, you may need to edit database schema promptly (The file is located at `db/schema.sql`).
 
 This project assumes that you already have `yarn` package manager already installed. If you need to install it, please follow the instruction on their website: [Yarn](https://yarnpkg.com).
 
