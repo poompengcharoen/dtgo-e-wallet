@@ -1,6 +1,6 @@
 # E-Wallet Project for DTGO Technical Test
 
-This project was created for the technical test at DTGO. It is not for commercial purposes. Do not distribute this project to the public.
+This project was created for the technical test at DTGO. It is not for commercial purposes.
 
 ## Structure
 
